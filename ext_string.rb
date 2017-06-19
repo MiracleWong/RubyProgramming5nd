@@ -1,7 +1,7 @@
 class String
     def count_word
         ary = self.split(/\s+/)
-        return any.size
+        return ary.size
     end
 end
 
