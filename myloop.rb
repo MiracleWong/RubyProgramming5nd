@@ -1,7 +1,7 @@
 def myloop
-    while true
-        yield
-    end
+  while true
+    yield
+  end
 end
 
 num = 1
