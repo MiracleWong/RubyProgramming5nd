@@ -51,8 +51,22 @@ while name = dir.read
 end
 dir.close
 
+# dir = Dir.open("/usr/bin")
+#   dir.each do |name|
+#     p name
+#   end
+# end
+# dir.close
+
 Dir.open("/usr/bin") do |dir|
   dir.each do |name|
     p name
   end
 end
+
+##通过Dir#read后，程序会遍历读取最先打开的目录下的内容，分为4类
+# 表示当前目录的.  PS：/usr/bin  & /usr/bin/.，表示同一个目录
+# 表示上级目录的 ..
+# 其他目录名
+# 文件名
+# 举例实例，可以看见 teaverse.rb
