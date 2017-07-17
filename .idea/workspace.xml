@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e430d5-d2b1-4b2d-a283-3a053c0e0fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter10/copy.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter10/wc.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local_and_blcok.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p_and_pp.rb" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -479,7 +478,7 @@
       <workItem from="1499585462403" duration="112000" />
       <workItem from="1499587878620" duration="20000" />
       <workItem from="1499589768963" duration="172000" />
-      <workItem from="1500255242744" duration="1659000" />
+      <workItem from="1500255242744" duration="1870000" />
     </task>
     <servers />
   </component>
@@ -492,7 +491,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5156000" />
+    <option name="totallyTimeSpent" value="5367000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
